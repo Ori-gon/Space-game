@@ -1,4 +1,3 @@
- ```
 # Space Game
 
 This is a space game where the player controls a gun to shoot down aliens. The game is written in Python using the Pygame library.
